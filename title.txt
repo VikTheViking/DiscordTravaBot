@@ -1,0 +1,62 @@
+title: 
+
+{k.dt} - village
+{k.bt} - ocupied oasis
+{k.fo} - unocupied oasis
+{k.vt} - abbandoned valley
+
+desc:
+
+{k.spieler} - player
+{k.allianz} - alliance
+{k.einwohner} - population
+{k.volk} - race
+
+valley type:
+
+{k.f1} = 3,3,3,9
+{k.f2} = 3,4,5,6
+{k.f3} = 4,4,4,6
+{k.f4} = 4,5,3,6
+{k.f5} = 5,3,4,6
+{k.f6} = 1,1,1,15
+{k.f7} = 4,4,3,7
+{k.f8} = 3,4,4,7
+{k.f9} = 4,3,4,7
+{k.f10} = 3,5,4,6
+{k.f11} = 4,3,5,6
+{k.f12} = 5,4,3,6
+
+res icon:
+
+{a:r1} - lumber
+{a:r2} - clay
+{a:r3} - iron
+{a:r4} - crop
+
+res type:
+
+{a.r1} - lumber
+{a.r2} - clay
+{a.r3} - iron
+{a.r4} - crop
+
+race:
+
+{a.v1} - romman
+{a.v2} - teuton
+{a.v3} - gaul
+{a.v5} - natar
+
+Nature:
+
+unit u31 - rat
+unit u32 - spider
+unit u33 - snake
+unit u34 - bat
+unit u35 - boar
+unit u36 - wolf
+unit u37 - bear
+unit u38 - crocodile
+unit u39 - tiger
+unit u40 - elephant

@@ -1,0 +1,18 @@
+{
+  "name": "yumi",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "VikTheViking",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "jsdom": "^15.1.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
